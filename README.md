@@ -9,14 +9,16 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/1.akhmadjon">
+  <a href="https://instagram.com/1akhmadjon">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://t.me/zyovuddnov">
+  <a href="https://t.me/1akhmadjon">
     <img src="https://img.shields.io/badge/Telegram-%2302AAB0.svg?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
+  <a href="mailto:akh08062006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
----
 
 # 💻 Tech Stack
 
@@ -52,4 +54,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=1akhmadjon&icon=6&color=0)](https://visitcount.itsvg.in)
 
-- 📧 Email: akhmad080606@gmail.com
