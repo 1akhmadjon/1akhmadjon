@@ -12,7 +12,7 @@
   <a href="https://instagram.com/1akhmadjon">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="https://t.me/1akhmadjon">
+  <a href="https://t.me/zyovuddnov">
     <img src="https://img.shields.io/badge/Telegram-%2302AAB0.svg?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
   <a href="mailto:akh08062006@gmail.com">
