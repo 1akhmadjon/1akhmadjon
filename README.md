@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/1akhmadjon">
+  <a href="https://instagram.com/1.akhmadjon">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="https://t.me/zyovuddnov">
